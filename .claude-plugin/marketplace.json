@@ -1,0 +1,15 @@
+{
+  "name": "defy",
+  "description": "Defy: idea to a deployed, paid SaaS inside Claude Code.",
+  "owner": {
+    "name": "Defy",
+    "url": "https://www.learn-defy.com"
+  },
+  "plugins": [
+    {
+      "name": "defy",
+      "source": "./plugins/defy",
+      "description": "Idea to a deployed, paid SaaS inside Claude Code: /defy:new, /defy:stripe, /defy:ship, plus design-engineering skills for the UI."
+    }
+  ]
+}

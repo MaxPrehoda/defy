@@ -1,0 +1,8 @@
+{
+  "name": "defy",
+  "version": "1.0.0",
+  "description": "Idea to a deployed, paid SaaS inside Claude Code. /defy:new scaffolds the app, /defy:stripe wires billing, /defy:ship puts it live, and a reviewer agent checks every step. Bundles design-engineering skills so the product looks and moves right.",
+  "author": { "name": "Max Prehoda", "url": "https://www.learn-defy.com" },
+  "homepage": "https://www.learn-defy.com",
+  "keywords": ["saas", "stripe", "vercel", "supabase", "design-engineering", "animation"]
+}
